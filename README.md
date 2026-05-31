@@ -24,3 +24,8 @@ customer-churn-analysis/
 │
 ├── requirements.txt                    # Python dependencies
 └── README.md
+```
+
+### Correlation Matrix
+![Correlation Heatmap](notebooks/heatmap.png)
+*Heatpam of the key churn variables.*
